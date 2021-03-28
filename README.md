@@ -4,8 +4,11 @@
 
 # Usage
 
-1. clone git url
+1. git clone https://github.com/hayk98-hayrapetyan/vue-native-tic-tac-toe.git
 
 2. yarn install
 
 3. yarn start
+
+
+If you haven't expo application in your device download it from App Store or Play Market, scan QR code and enjoy playing this game with your friends!!!
