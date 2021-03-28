@@ -1,8 +1,8 @@
 # vue-native-tic-tac-toe
 
-#Basic tic-tac-toe application build by vue-native and native base components
+# Basic tic-tac-toe application build by vue-native and native base components
 
-#Usage
+# Usage
 
 1. clone git url
 
